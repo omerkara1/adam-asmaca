@@ -7,9 +7,5 @@ Bunlardan bazıları ise, kelimeleri otomatik olarak seçmek ve puanlama sistemi
 ![Game1](/images/game1.png)
 ___
 
-![Game2](/images/game2.png)
-___
-
-![Game3](/images/game3.png)
 
 **_Sosyal Medya_** : [LinkedIn](https://www.linkedin.com/in/omerkr/) - 
